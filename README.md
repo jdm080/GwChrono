@@ -2,7 +2,7 @@
 A timing plugin for GWtoolbox!
 
 
-[Quick Download](https://github.com/jdm080/GwChrono/raw/refs/heads/main/GWChrono.dll)
+[Quick Download](https://github.com/jdm080/GwChrono/raw/refs/heads/main/GWChronoV1.dll)
 # Quick Start
 A concise walkthrough to get GWChrono installed, loaded, and saving runs.
 
