@@ -1,6 +1,19 @@
 # GwChrono
 A timing plugin for GWtoolbox!
 
+<img width="915" height="734" alt="image" src="https://github.com/user-attachments/assets/f4df7ad3-da1b-4d80-9097-99bac28801b4" />
+
+<img width="1265" height="889" alt="image" src="https://github.com/user-attachments/assets/f59ef37b-e150-4706-81ec-be2c49df6359" />
+
+<img width="881" height="1217" alt="image" src="https://github.com/user-attachments/assets/a8395c48-c30b-4ccc-95c7-68ad2089c49a" />
+
+Click and Drag to Custimize the position!
+<img width="46" height="37" alt="image" src="https://github.com/user-attachments/assets/afd9aa25-5fd2-4e80-9c44-4e43417226d2" />
+
+<img width="444" height="680" alt="image" src="https://github.com/user-attachments/assets/17160b1c-904e-484d-90b3-282e3166aaee" />
+
+
+
 
 [Quick Download](https://github.com/jdm080/GwChrono/raw/refs/heads/main/GWChronoV1.dll)
 # Quick Start
